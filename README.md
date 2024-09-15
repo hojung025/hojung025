@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+Hello! My name is Hojeong Lee, and my student ID is 202232482. My major is Law, and I am also pursuing a double major in Software.
 <!--
 **hojung025/hojung025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
